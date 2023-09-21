@@ -10,4 +10,8 @@
 		Ways to reach us.
 	</p>
 
+	<p>
+		<a href="mailto:hu1980@gmail.com">hu1980@gmail.com</a>
+	</p>
+
 </div>
